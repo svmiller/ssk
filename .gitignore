@@ -1,0 +1,17 @@
+_site
+.sass-cache
+!.gitignore
+_ht*
+_vt*
+*.log
+_internal
+_dross
+.jekyll-cache
+*.rdx
+*.rdb
+*.RData
+cache/
+hopplock/
+gradesheets/
+data/
+compensatory-assignments
