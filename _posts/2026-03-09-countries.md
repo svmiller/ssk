@@ -5,7 +5,7 @@ date:   2026-03-09
 author: steve
 ---
 
-This list comes with the caveat it's incomplete, based on the book we're using and the composition of the class. Further, labeling someone as, say, an American (like me) comes with the noun 사람 (for person). In this case, 너는 미국사람이에요 is "I am an American" (literally: I am an America-person, if you wanted). In the third person: 스트브 씨는 미국사람이에요 is "Steve is an American."[^fn]
+This list comes with the caveat it's incomplete, based on the book we're using and the composition of the class. Further, labeling someone as, say, an American (like me) comes with the noun 사람 (for person). In this case, 너는 미국사람이에요 is "I am an American" (literally: I am an America-person, if you wanted). In the third person: 스티브 씨는 미국사람이에요 is "Steve is an American."[^fn]
 
 | **나라**| **Country** |
 |:-------|:------------|
