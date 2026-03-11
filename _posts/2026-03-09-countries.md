@@ -25,4 +25,4 @@ This list comes with the caveat it's incomplete, based on the book we're using a
 | 미국 | United States of America |
 
 
-[^fn]: This is the token apology for my nationality. I'm sorry; there's nothing I can do about it and I have no breaks to throw from here.
+[^fn]: This is the token apology for my nationality. I'm sorry; there's nothing I can do about it and I have no bricks to throw from here.
