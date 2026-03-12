@@ -46,4 +46,50 @@ A few things are worth emphasizing in particular about these numbers, more as a 
 - 11 (십일), 12 (십이), and 15 (십오) have a carry-over in pronunciation. For example, it wouldn't be "sip-il" for 11. It would be "sibil."  It wouldn't be "sip-o" for 15. It would be "sibo". Carry over that ㅂ in those cases.
 - 16 (십육) and **any number preceded by 십** have a special case for pronunciation. In this case, you wouldn't pronounce 16 as "sip-yuk". It would be more "simyuk". That p-y combo becames more of a "m-y."
 
-(More to follow when time permits. It's not that daunting. You just have to learn them.)
+Here would be 20-39. Again, the pattern is very clear. Be mindful in pronunciation of the carry-over for the 1s, 2s, and 5s and the special case of the numbers that end in 6.
+
+| **Number**| **Korean** |
+|:-------|:------------:|
+| 20 | 이십 |
+| 21 | 이십일 |
+| 22 | 이십이 |
+| 23 | 이십삼 |
+| 24 | 이십사 |
+| 25 | 이십오 |
+| 26 | 이십육 |
+| 27 | 이십칠 |
+| 28 | 이십팔 |
+| 29 | 이십구 |
+| 30 | 삼십 |
+| 31 | 삼십일 |
+| 32 | 삼십이 |
+| 33 | 삼십삼 |
+| 34 | 삼십사 |
+| 35 | 삼십오 |
+| 36 | 삼십육 |
+| 37 | 삼십칠 |
+| 38 | 삼십팔 |
+| 39 | 삼십구 |
+
+Let's further count by 10 from 40-90.
+
+| **Number**| **Korean** |
+|:-------|:------------:|
+| 40 | 사십 |
+| 50 | 오십 |
+| 60 | 육십 |
+| 70 | 칠십 |
+| 80 | 팔십 |
+| 90 | 구십 |
+
+There are special characters for the bigger numbers. Briefly, of which we've been told to this point:
+
+| **Number**| **Korean** |
+|:-------|:------------:|
+| 100 |  백  |
+| 1000 | 천 |
+| 10,000 | 만 |
+
+The 10,000 marker is very curious if Korean is not native.
+
+The year would be 이천이십육, by the way, **and be mindful of the pronunciation of that 육 in that number**!
