@@ -5,7 +5,7 @@ date:   2026-03-12
 author: steve
 ---
 
-Korean has two number systems. One is native Korean, which maxes out (apparently) at 99 and is used for more informal counting tasks. The other is the Sino-Korean set of numbers, which is used more formally for important tasks. Knowledge of both is necessary, but it's important to start with the latter and worry about the former for another day. Perhaps the corollary of this is that native Korean is the tú form of numbers and Sino-Korean is the Usted form of numbers (e.g. unosted, dossted, tressted, cuatrosted, etc.). I can't wait to tell the Cervantes Institute about that language innovation.
+Korean has two number systems. One is native Korean, which maxes out (apparently) at 99 and is used for more informal counting tasks. The other is the Sino-Korean set of numbers, which is used more formally for important tasks. Knowledge of both is necessary, but it's important to start with the latter and worry about the former for another day. Perhaps the corollary of this is that native Korean is the tú form of numbers and Sino-Korean is the Usted form of numbers (e.g. unosted, dossted, tressted, cuatrosted, etc.). I can't wait to tell the Cervantes Institute and the Royal Spanish Academy about that language innovation. They're going to be so stoked.
 
 Anyway, there's really nothing super fancy about these numbers. I just have to learn them. For example, let's count from 0 to 10.
 
@@ -25,7 +25,7 @@ Anyway, there's really nothing super fancy about these numbers. I just have to l
 
 Of note: there are two characters for zero. 영 is more "zero" as a number whereas 공 is the zero you would say if you were reciting something like a serial number of a telephone number.
 
-Sino-Korean doesn't have the 11/12 weirdness of English or the once-catorce weirdness of Spanish. From here, it's pretty straightforward from 11-20 (starting at 10 in the following table to make it a little more obvious).
+Sino-Korean doesn't have the eleven-twelve weirdness of English or the once-catorce weirdness of Spanish. From here, it's pretty straightforward from 11-20 (starting at 10 in the following table to make it a little more obvious).
 
 | **Number**| **Korean** |
 |:-------|:------------:|
