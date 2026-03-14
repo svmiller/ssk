@@ -25,7 +25,7 @@ Anyway, there's really nothing super fancy about these numbers. I just have to l
 
 Of note: there are two characters for zero. 영 is more "zero" as a number whereas 공 is the zero you would say if you were reciting something like a serial number of a telephone number.
 
-Sino-Korean doesn't have the eleven-twelve weirdness of English or the once-catorce weirdness of Spanish. From here, it's pretty straightforward from 11-20 (starting at 10 in the following table to make it a little more obvious).
+Sino-Korean doesn't have the eleven-twelve weirdness of English or the once-quince weirdness of Spanish. From here, it's pretty straightforward from 11-20 (starting at 10 in the following table to make it a little more obvious).
 
 | **Number**| **Korean** |
 |:-------|:------------:|
