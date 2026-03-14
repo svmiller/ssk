@@ -10,7 +10,7 @@ Korean has two number systems. One is native Korean, which maxes out (apparently
 Anyway, there's really nothing super fancy about these numbers. I just have to learn them. For example, let's count from 0 to 10.
 
 | **Number**| **Korean** |
-|:-------|:------------:|
+|:-------:|:------------:|
 | 0 | 영/공 |
 | 1 | 일 |
 | 2 | 이 |
@@ -23,12 +23,13 @@ Anyway, there's really nothing super fancy about these numbers. I just have to l
 | 9 | 구 |
 | 10 | 십 |
 
+
 Of note: there are two characters for zero. 영 is more "zero" as a number whereas 공 is the zero you would say if you were reciting something like a serial number of a telephone number.
 
 Sino-Korean doesn't have the eleven-twelve weirdness of English or the once-quince weirdness of Spanish. From here, it's pretty straightforward from 11-20 (starting at 10 in the following table to make it a little more obvious).
 
 | **Number**| **Korean** |
-|:-------|:------------:|
+|:-------:|:------------:|
 | 10 | 십 |
 | 11 | 십일 |
 | 12 | 십이 |
@@ -49,7 +50,7 @@ A few things are worth emphasizing in particular about these numbers, more as a 
 Here would be 20-39. Again, the pattern is very clear. Be mindful in pronunciation of the carry-over for the 1s, 2s, and 5s and the special case of the numbers that end in 6.
 
 | **Number**| **Korean** |
-|:-------|:------------:|
+|:-------:|:------------:|
 | 20 | 이십 |
 | 21 | 이십일 |
 | 22 | 이십이 |
@@ -74,7 +75,7 @@ Here would be 20-39. Again, the pattern is very clear. Be mindful in pronunciati
 Let's further count by 10 from 40-90.
 
 | **Number**| **Korean** |
-|:-------|:------------:|
+|:-------:|:------------:|
 | 40 | 사십 |
 | 50 | 오십 |
 | 60 | 육십 |
@@ -85,7 +86,7 @@ Let's further count by 10 from 40-90.
 There are special characters for the bigger numbers. Briefly, of which we've been told to this point:
 
 | **Number**| **Korean** |
-|:-------|:------------:|
+|:-------:|:------------:|
 | 100 |  백  |
 | 1000 | 천 |
 | 10,000 | 만 |

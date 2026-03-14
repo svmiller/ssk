@@ -1,0 +1,29 @@
+table {
+	width: 100%;
+	margin-bottom: 15px;
+	border-collapse: collapse
+
+}
+
+table caption {
+	font-weight: bold;
+	padding-bottom: 5px;
+} 
+
+table th {
+	font-weight: bold;
+	color: #fff;
+	border-bottom: 1px #ddd solid;
+	background: $su-blue;
+	padding: 7px 3px 7px 10px
+}
+
+
+table td {
+	padding: 3px 3px 3px 10px;	
+	border-bottom: 1px #ddd solid;
+}
+
+table tr:nth-child(even) {background: #f9f9f9}
+table tr:nth-child(odd) {background: $background-color}
+
