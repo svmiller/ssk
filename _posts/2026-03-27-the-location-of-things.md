@@ -30,7 +30,7 @@ If there is a distinction between 아래 and 밑 , we did not learn them. They a
 
 ## Example Uses
 
-Here are some exmaple exercises we got, slightly modified sometimes from what we got in class.
+Here are some examples exercises we got, slightly modified sometimes from what we got in class.
 
 - **가방이 어디에 있어요?** *책상 왼쪽에 있어요*
 
