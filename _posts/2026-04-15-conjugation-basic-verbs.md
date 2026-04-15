@@ -24,6 +24,7 @@ Okie doke, onto some examples:
 | 보다 | to see/watch | 봐요 |
 | 만나다 | to meet | 만나요 |
 | 사다 | to buy | 사요 |
+| 자다 | to sleep | 자요 |
 
 ## Verbs without Preceding Vowels of ㅏ or ㅗ
 
