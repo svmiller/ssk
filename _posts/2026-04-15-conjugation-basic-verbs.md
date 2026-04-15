@@ -32,7 +32,7 @@ Okie doke, onto some examples:
 |:-------:|:------------:|:--------------------:|
 | 먹다  | to eat | 먹어요 |
 | 읽다 | to read | 읽어요 |
-| 마시다 | to drink | 셔요 |
+| 마시다 | to drink | 마셔요 |
 | 쓰다 | to write | 써요 |
 | 듣다 | to listen | 들어요[^irr] | 
 
