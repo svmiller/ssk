@@ -46,3 +46,4 @@ Okie doke, onto some examples:
 | 일하다 | to work | 일해요 |
 | 운동하다 | to exercise | 운동해요 |
 | 요리하다 | to cook | 요리해요  |
+| 촣아하다 | to like | 촣아해요 |
