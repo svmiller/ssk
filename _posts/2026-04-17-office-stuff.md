@@ -23,3 +23,5 @@ Use the words when describing [the location of things](https://k.svmiller.com/bl
 | 필통 | pencil box |
 | 펜 | pen |
 | 테이블 | table |
+| 핸드폰 | cell phone |
+| 노트북 | laptop |
