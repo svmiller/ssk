@@ -47,3 +47,11 @@ Okie doke, onto some examples:
 | 운동하다 | to exercise | 운동해요 |
 | 요리하다 | to cook | 요리해요  |
 | 촣아하다 | to like | 촣아해요 |
+
+## Some Example Sentences
+
+1. 저는 한국어  공부해요 (I am studying Korean)
+2. 저는 음악 들어요 (I am listening to music)
+3. 저는 텔레비전 봐요 (I am watching TV)
+4. 저는 물 (커피, 차)  마셔요 (I am drinking water [coffee, tea])
+5. 저는 친구 만나요 (I am meeting a friend/friends)
