@@ -102,12 +102,12 @@
 	letter-spacing: 0;
 	line-height: 1.2em;
 	padding: 4px 10px;
-color: #fff;
+	color: $su-blue;
 
 }
 
 .site-nav .sub-menu a:hover {
-	color: #fff;
+	color: $su-blue;
 }
 .site-nav  .sub-menu {
 	background: #ffffff;
@@ -120,6 +120,7 @@ color: #fff;
 	border-left-color: $su-blue;
 	border-right-color: $su-blue;
 	border-right: 0px;
+	color: $su-blue
 
 }
 

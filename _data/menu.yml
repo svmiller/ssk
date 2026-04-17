@@ -1,0 +1,9 @@
+- title: "Word Bank"
+  href: ""
+  active: word-bank
+  icons: "fas fa-book"
+  subcategories:
+    - subtitle: "Countries"
+      subhref: "/word-bank/countries/"
+    - subtitle: "Professions"
+      subhref: "/word-bank/professions/"
