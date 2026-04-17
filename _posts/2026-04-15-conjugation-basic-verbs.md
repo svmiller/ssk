@@ -55,3 +55,4 @@ Okie doke, onto some examples:
 3. 저는 텔레비전 봐요 (I am watching TV)
 4. 저는 물 (커피, 차)  마셔요 (I am drinking water [coffee, tea])
 5. 저는 친구 만나요 (I am meeting a friend/friends)
+6. 저는 책 읽어요 (I am reading a book)
