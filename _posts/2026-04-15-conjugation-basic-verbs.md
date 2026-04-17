@@ -54,7 +54,7 @@ Okie doke, onto some examples:
 |:----------:|:-----------:|
 | 저는 한국어  공부해요  | I am studying Korean |
 | 저는 음악 들어요 | I am listening to music |
-| 저는 텔레비전 봐요 | I amd watching TV |
+| 저는 텔레비전 봐요 | I am watching TV |
 | 저는 물 (커피, 차)  마셔요 | I am drinking water (coffee, tea) |
 | 저는 친구 만나요 | I am meeting a friend/friends |
 | 저는 책 읽어요 | I am reading a book |
