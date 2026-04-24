@@ -5,5 +5,7 @@
   subcategories:
     - subtitle: "Countries"
       subhref: "/word-bank/countries/"
+    - subtitle: "Family (가족)"
+      subhref: "/word-bank/family/"
     - subtitle: "Professions"
       subhref: "/word-bank/professions/"
