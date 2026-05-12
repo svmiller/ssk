@@ -7,5 +7,7 @@
       subhref: "/word-bank/countries/"
     - subtitle: "Family (가족)"
       subhref: "/word-bank/family/"
+    - subtitle: "Locations"
+      subhref: "/word-bank/locations/"
     - subtitle: "Professions"
       subhref: "/word-bank/professions/"
