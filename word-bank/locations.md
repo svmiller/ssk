@@ -26,3 +26,6 @@ We're learning these as we go and have to commit some of these to memory.
 | 방 | room |
 | PC방 | internet cafe |
 | 노래방 | karaoke bar |
+| 여기[^cav] | here |
+
+[^cav]: I'm sticking this here for now. Our book has only introduced this location as a topic as opposed to a location or destination. I haven't seen it yet with the location particle (에). Only the topic particle (는)
