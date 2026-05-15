@@ -18,6 +18,7 @@ We're learning these as we go and have to commit some of these to memory.
 | 식당 | restaurant |
 | 마트 | "mart", often a grocery store |
 | 시장 | traditional market |
+| 백화점 | department store |
 | 공원 | park |
 | 영화관 | movie theater |
 | 집 | home |
