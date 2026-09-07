@@ -26,7 +26,7 @@ I would ask why this system must be in place, but I'm the one that signed up to 
 | 9 | 아홉 |
 | 10 | 열 |
 
-There are some quirks to remember from 10-19 and from 20-29 when counting an actual thing, but the actual number itself is fairly straightforward. For example, 열하나 (literally: 10+1) is 11. There will be irregularity to follow when actually counting something in particular, but I'll get to that later in this post. For now, though, let's do 20-90.
+There are some quirks to remember when counting an actual thing, but the actual number itself is fairly straightforward. For example, 열하나 (literally: 10+1) is 11. There will be irregularity to follow when actually counting something in particular, but I'll get to that later in this post. For now, though, let's do 20-90.
 
 | **Number**| **Korean** |
 |:-------:|:------------:|
@@ -39,7 +39,7 @@ There are some quirks to remember from 10-19 and from 20-29 when counting an act
 | 80 | 여든 |
 | 90 | 아흔 |
 
-Notice that 70, 80, and 90 start as 7, 8, and 9 do.
+Notice that 70, 80, and 90 start as 7, 8, and 9 do. I wish there were any other kind of tell for the others, but there isn't. You just have to memorize this stuff.
 
 ## Enter Unit Noun
 
