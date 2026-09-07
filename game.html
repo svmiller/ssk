@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Korean Flashcards</title>
+
+    <link rel="stylesheet" href="game-style.css">
+</head>
+
+<body>
+
+    <main class="container">
+
+        <header>
+            <h1>Korean Flashcards</h1>
+            <p class="subtitle">한국어 어휘 연습</p>
+        </header>
+
+        <section class="controls">
+
+            <label>
+                Direction:
+                <select id="direction">
+                    <option value="korean-to-english">Korean → English</option>
+                    <option value="english-to-korean">English → Korean</option>
+                </select>
+            </label>
+
+            <label>
+                Number of cards:
+                <select id="cardLimit">
+                    <option value="10">10</option>
+                    <option value="20">20</option>
+                    <option value="50">50</option>
+                    <option value="all">All</option>
+                </select>
+            </label>
+
+        </section>
+
+
+        <section class="stats">
+
+            <div>
+                <span class="stat-label">Card</span>
+                <span id="cardNumber">1 / 10</span>
+            </div>
+
+            <div>
+                <span class="stat-label">Score</span>
+                <span id="score">0</span>
+            </div>
+
+            <div>
+                <span class="stat-label">Streak</span>
+                <span id="streak">0</span>
+            </div>
+
+        </section>
+
+
+        <div class="progress-container">
+            <div id="progressBar" class="progress-bar"></div>
+        </div>
+
+
+        <section class="card">
+
+            <div id="prompt" class="prompt">
+                책
+            </div>
+
+            <div id="answerArea" class="answer-area">
+
+                <input
+                    type="text"
+                    id="answerInput"
+                    placeholder="Type your answer..."
+                    autocomplete="off"
+                    spellcheck="false"
+                >
+
+                <button id="checkButton" class="primary-button">
+                    Check
+                </button>
+
+            </div>
+
+            <div id="result" class="result hidden"></div>
+
+            <button id="revealButton" class="secondary-button">
+                Reveal answer
+            </button>
+
+        </section>
+
+
+        <section id="selfAssessment" class="self-assessment hidden">
+
+            <p>How did you do?</p>
+
+            <div class="assessment-buttons">
+
+                <button id="incorrectButton" class="incorrect">
+                    ✗ Incorrect
+                </button>
+
+                <button id="correctButton" class="correct">
+                    ✓ Correct
+                </button>
+
+            </div>
+
+        </section>
+
+
+        <section class="actions">
+
+            <button id="nextButton" class="secondary-button hidden">
+                Next card →
+            </button>
+
+            <button id="resetButton" class="reset-button">
+                Reset progress
+            </button>
+
+        </section>
+
+
+        <footer>
+            <p>
+                <kbd>Enter</kbd> Check &nbsp;
+                <kbd>Space</kbd> Reveal &nbsp;
+                <kbd>→</kbd> Next card
+            </p>
+        </footer>
+
+    </main>
+
+    <script src="app.js"></script>
+
+</body>
+</html>
