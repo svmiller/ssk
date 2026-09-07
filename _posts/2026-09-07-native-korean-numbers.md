@@ -47,7 +47,7 @@ Korean has a so-called "unit noun" in relation to counting various things. Its i
 
 These unit nouns will likely get their own spin-off tab on this website, but for now, we learned the unit noun for various objects (개), people (명), animals (마리), cups [only when they're filled with something] (잔), cans (갠, helpfully), bottles (병), books/book-adjacent things (권), paper/paper-adjacent things (장), and ages (살).
 
-However, we now have weird wrinkles to think about in counting things. Let's take a hypothetical question you might ask me in my office now to help me learn Korean. "How many cups are on the desk?" [Remembering our prepositions](https://k.svmiller.com/blog/2026/03/the-location-of-things), this question would be: "**책상 위에 펜이 몇 개 있어요?**" As a reminder to myself, literally: "desk, on, pen (with [subject marker](https://k.svmiller.com/blog/2026/03/i-ga)), how many, unit noun for countable objects, are there/exists?" Depending on how I may want to count the number of writing utensils on my desk, the answers would be as follows:
+However, we now have weird wrinkles to think about in counting things. Let's take a hypothetical question you might ask me in my office now to help me learn Korean. "How many pens are on the desk?" [Remembering our prepositions](https://k.svmiller.com/blog/2026/03/the-location-of-things), this question would be: "**책상 위에 펜이 몇 개 있어요?**" As a reminder to myself, literally: "desk, on, pen (with [subject marker](https://k.svmiller.com/blog/2026/03/i-ga)), how many, unit noun for countable objects, are there/exists?" Depending on how I may want to count the number of writing utensils on my desk, the answers would be as follows:
 
 | **Korean**| **English** |
 |:-------|:------------|
