@@ -52,9 +52,9 @@ However, we now have weird wrinkles to think about in counting things. Let's tak
 | **Korean**| **English** |
 |:-------|:------------|
 | 책상 위에 펜이 한 개 있어요. | There is one pen on the desk. |
-| 책상 위에 펜이 두 개 있어요. | There is are two pens on the desk. |
-| 책상 위에 펜이 세 개 있어요. | There is are three pens on the desk. |
-| 책상 위에 펜이 네 개 있어요. | There is are four pens on the desk. |
+| 책상 위에 펜이 두 개 있어요. | There are two pens on the desk. |
+| 책상 위에 펜이 세 개 있어요. | There are three pens on the desk. |
+| 책상 위에 펜이 네 개 있어요. | There are four pens on the desk. |
 | 책상 위에 펜이 스무 개 있어요. | There are 20 pens on the desk. |
 
 In this context, it's worth saying before continuing that the first half of these sentences is overkill. For example, "한 개 있어요" would be more than sufficient in this context to say that there is just one pen on the desk. Korean is very context-heavy in its application.
