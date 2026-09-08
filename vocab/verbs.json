@@ -1,0 +1,87 @@
+[
+    {
+        "korean": "가다",
+        "english": "to go",
+        "categories": ["verbs"]
+    },
+    {
+        "korean": "오다",
+        "english": "to come",
+        "categories": ["verbs"]
+    },
+    {
+        "korean": "보다",
+        "english": "to see; to watch",
+        "categories": ["verbs"]
+    },
+    {
+        "korean": "만나다",
+        "english": "to meet",
+        "categories": ["verbs"]
+    },
+    {
+        "korean": "사다",
+        "english": "to buy",
+        "categories": ["verbs"]
+    },    
+    {
+        "korean": "자다",
+        "english": "to sleep",
+        "categories": ["verbs"]
+    },
+    {
+        "korean": "먹다",
+        "english": "to eat",
+        "categories": ["verbs"]
+    },
+    {
+        "korean": "읽다",
+        "english": "to read",
+        "categories": ["verbs"]
+    },
+    {
+        "korean": "마시다",
+        "english": "to drink",
+        "categories": ["verbs"]
+    },
+    {
+        "korean": "쓰다",
+        "english": "to write",
+        "categories": ["verbs"]
+    },
+    {
+        "korean": "듣다",
+        "english": "to listen",
+        "categories": ["verbs"]
+    },
+    {
+        "korean": "공부하다",
+        "english": "to study",
+        "categories": ["verbs"]
+    },
+    {
+        "korean": "일하다",
+        "english": "to work",
+        "categories": ["verbs"]
+    },
+    {
+        "korean": "운동하다",
+        "english": "to exercise",
+        "categories": ["verbs"]
+    },
+    {
+        "korean": "요리하다",
+        "english": "to cook",
+        "categories": ["verbs"]
+    },
+    {
+        "korean": "촣아하다",
+        "english": "to like",
+        "categories": ["verbs"]
+    },
+    {
+        "korean": "있다",
+        "english": "to exist; to have",
+        "categories": ["verbs"]
+    }
+    ]

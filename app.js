@@ -15,26 +15,34 @@ let answerRevealed = false;
 -------------------------------- */
 
 async function loadVocabulary() {
-
     try {
+        const indexResponse =
+            await fetch("vocab/index.json");
 
-        const response = await fetch("vocabulary.json");
+        const files =
+            await indexResponse.json();
 
-        if (!response.ok) {
-            throw new Error("Could not load vocabulary.json");
-        }
+        const responses = await Promise.all(
+            files.map(file =>
+                fetch(`vocab/${file}`)
+            )
+        );
 
-        vocabulary = await response.json();
+        const datasets = await Promise.all(
+            responses.map(response =>
+                response.json()
+            )
+        );
+
+        vocabulary = datasets.flat();
 
         startGame();
 
     } catch (error) {
-
         console.error(error);
 
         document.getElementById("prompt").textContent =
             "Could not load vocabulary.";
-
     }
 }
 
@@ -62,12 +70,34 @@ function startGame() {
 
 function createDeck() {
 
-    const limit = document.getElementById("cardLimit").value;
+    const limit =
+        document.getElementById("cardLimit").value;
 
-    deck = [...vocabulary];
+    // Get all selected categories
+    const selectedCategories =
+        Array.from(
+            document.querySelectorAll(
+                "#categoryOptions input:checked"
+            )
+        ).map(
+            checkbox => checkbox.value
+        );
 
+
+    // Keep cards that belong to at least
+    // one selected category
+    deck = vocabulary.filter(card =>
+        card.categories.some(category =>
+            selectedCategories.includes(category)
+        )
+    );
+
+
+    // Randomize
     shuffle(deck);
 
+
+    // Limit number of cards
     if (limit !== "all") {
         deck = deck.slice(0, Number(limit));
     }
@@ -426,6 +456,19 @@ document
         "click",
         checkAnswer
     );
+
+document
+    .querySelectorAll(
+        "#categoryOptions input"
+    )
+    .forEach(checkbox => {
+
+        checkbox.addEventListener(
+            "change",
+            startGame
+        );
+
+    });
 
 document
     .getElementById("revealButton")

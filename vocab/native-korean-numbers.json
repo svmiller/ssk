@@ -1,0 +1,497 @@
+[
+    {
+        "korean": "하나",
+        "english": "1",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "둘",
+        "english": "2",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "셋",
+        "english": "3",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "넷",
+        "english": "4",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "다섯",
+        "english": "5",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "여섯",
+        "english": "6",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "일곱",
+        "english": "7",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "여덟",
+        "english": "8",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "아홉",
+        "english": "9",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "열",
+        "english": "10",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "열하나",
+        "english": "11",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "열둘",
+        "english": "12",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "열셋",
+        "english": "13",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "열넷",
+        "english": "14",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "열다섯",
+        "english": "15",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "열여섯",
+        "english": "16",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "열일곱",
+        "english": "17",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "열여덟",
+        "english": "18",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "열아홉",
+        "english": "19",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "스물",
+        "english": "20",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "스물하나",
+        "english": "21",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "스물둘",
+        "english": "22",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "스물셋",
+        "english": "23",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "스물넷",
+        "english": "24",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "스물다섯",
+        "english": "25",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "스물여섯",
+        "english": "26",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "스물일곱",
+        "english": "27",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "스물여덟",
+        "english": "28",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "스물아홉",
+        "english": "29",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "서른",
+        "english": "30",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "서른하나",
+        "english": "31",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "서른둘",
+        "english": "32",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "서른셋",
+        "english": "33",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "서른넷",
+        "english": "34",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "서른다섯",
+        "english": "35",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "서른여섯",
+        "english": "36",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "서른일곱",
+        "english": "37",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "서른여덟",
+        "english": "38",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "서른아홉",
+        "english": "39",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "마흔",
+        "english": "40",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "마흔하나",
+        "english": "41",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "마흔둘",
+        "english": "42",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "마흔셋",
+        "english": "43",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "마흔넷",
+        "english": "44",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "마흔다섯",
+        "english": "45",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "마흔여섯",
+        "english": "46",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "마흔일곱",
+        "english": "47",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "마흔여덟",
+        "english": "48",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "마흔아홉",
+        "english": "49",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "쉰",
+        "english": "50",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "쉰하나",
+        "english": "51",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "쉰둘",
+        "english": "52",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "쉰셋",
+        "english": "53",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "쉰넷",
+        "english": "54",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "쉰다섯",
+        "english": "55",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "쉰여섯",
+        "english": "56",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "쉰일곱",
+        "english": "57",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "쉰여덟",
+        "english": "58",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "쉰아홉",
+        "english": "59",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "예순",
+        "english": "60",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "예순하나",
+        "english": "61",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "예순둘",
+        "english": "62",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "예순셋",
+        "english": "63",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "예순넷",
+        "english": "64",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "예순다섯",
+        "english": "65",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "예순여섯",
+        "english": "66",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "예순일곱",
+        "english": "67",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "예순여덟",
+        "english": "68",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "예순아홉",
+        "english": "69",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "일흔",
+        "english": "70",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "일흔하나",
+        "english": "71",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "일흔둘",
+        "english": "72",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "일흔셋",
+        "english": "73",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "일흔넷",
+        "english": "74",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "일흔다섯",
+        "english": "75",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "일흔여섯",
+        "english": "76",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "일흔일곱",
+        "english": "77",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "일흔여덟",
+        "english": "78",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "일흔아홉",
+        "english": "79",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "여든",
+        "english": "80",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "여든하나",
+        "english": "81",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "여든둘",
+        "english": "82",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "여든셋",
+        "english": "83",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "여든넷",
+        "english": "84",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "여든다섯",
+        "english": "85",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "여든여섯",
+        "english": "86",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "여든일곱",
+        "english": "87",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "여든여덟",
+        "english": "88",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "여든아홉",
+        "english": "89",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "아흔",
+        "english": "90",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "아흔하나",
+        "english": "91",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "아흔둘",
+        "english": "92",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "아흔셋",
+        "english": "93",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "아흔넷",
+        "english": "94",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "아흔다섯",
+        "english": "95",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "아흔여섯",
+        "english": "96",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "아흔일곱",
+        "english": "97",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "아흔여덟",
+        "english": "98",
+        "categories": ["nk-numbers"]
+    },
+    {
+        "korean": "아흔아홉",
+        "english": "99",
+        "categories": ["nk-numbers"]
+    }
+]
