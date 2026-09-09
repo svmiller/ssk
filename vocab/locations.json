@@ -1,0 +1,97 @@
+[
+    {
+        "korean": "학교",
+        "english": "school",
+        "categories": ["locations"]
+    },
+    {
+        "korean": "대학교",
+        "english": "university",
+        "categories": ["locations"]
+    },
+    {
+        "korean": "학당",
+        "english": "academy/institute",
+        "categories": ["locations"]
+    },
+    {
+        "korean": "교실",
+        "english": "classroom",
+        "categories": ["locations"]
+    },
+    {
+        "korean": "회사",
+        "english": "office",
+        "categories": ["locations"]
+    },    
+    {
+        "korean": "카페",
+        "english": "cafe",
+        "categories": ["locations"]
+    },
+    {
+        "korean": "식당",
+        "english": "restaurant",
+        "categories": ["locations"]
+    },
+    {
+        "korean": "마트",
+        "english": "mart",
+        "categories": ["locations"]
+    },
+    {
+        "korean": "시장",
+        "english": "traditional market",
+        "categories": ["locations"]
+    },
+    {
+        "korean": "백화점",
+        "english": "department store",
+        "categories": ["locations"]
+    },
+    {
+        "korean": "공원",
+        "english": "park",
+        "categories": ["locations"]
+    },
+    {
+        "korean": "영화관",
+        "english": "movie theater",
+        "categories": ["locations"]
+    },
+    {
+        "korean": "집",
+        "english": "home",
+        "categories": ["locations"]
+    },
+    {
+        "korean": "운동하다",
+        "english": "to exercise",
+        "categories": ["locations"]
+    },
+    {
+        "korean": "침실",
+        "english": "bedroom",
+        "categories": ["locations"]
+    },
+    {
+        "korean": "방",
+        "english": "room",
+        "categories": ["locations"]
+    },
+    {
+        "korean": "PC방",
+        "english": "internet cafe",
+        "categories": ["locations"]
+    },
+     {
+        "korean": "노래방",
+        "english": "karaoke bar",
+        "categories": ["locations"]
+    },
+         {
+        "korean": "여기",
+        "english": "here",
+        "categories": ["locations"]
+    }
+    ]
