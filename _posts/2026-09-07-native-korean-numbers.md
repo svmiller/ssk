@@ -39,7 +39,7 @@ There are some quirks to remember when counting an actual thing, but the actual 
 | 80 | 여든 |
 | 90 | 아흔 |
 
-Notice that 70, 80, and 90 start as 7, 8, and 9 do. I wish there were any other kind of tell for the others, but there isn't. You just have to memorize this stuff.
+Notice that 70 and 90 start as 7 and 9 do. I wish there were any other kind of tell for the others, but there isn't. You just have to memorize this stuff. Why...
 
 ## Enter Unit Noun
 
