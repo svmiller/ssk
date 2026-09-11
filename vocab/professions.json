@@ -1,0 +1,47 @@
+[
+    {
+        "korean": "직업",
+        "english": "job",
+        "categories": ["professions"]
+    },
+    {
+        "korean": "회사원",
+        "english": "employee; office worker",
+        "categories": ["professions"]
+    },
+    {
+        "korean": "대학생",
+        "english": "student",
+        "categories": ["professions"]
+    },
+    {
+        "korean": "의사",
+        "english": "doctor",
+        "categories": ["professions"]
+    },
+    {
+        "korean": "경찰",
+        "english": "police; cop",
+        "categories": ["professions"]
+    },
+    {
+        "korean": "선생님",
+        "english": "teacher",
+        "categories": ["professions"]
+    },
+    {
+        "korean": "가수",
+        "english": "singer",
+        "categories": ["professions"]
+    },
+    {
+        "korean": "요리사",
+        "english": "chef",
+        "categories": ["professions"]
+    },
+    {
+        "korean": "교수",
+        "english": "professor",
+        "categories": ["professions"]
+    }
+    ]

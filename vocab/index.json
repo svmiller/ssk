@@ -1,5 +1,6 @@
 [
     "verbs.json",
     "native-korean-numbers.json",
-    "locations.json"
+    "locations.json",
+    "professions.json"
 ]
